@@ -1,0 +1,1 @@
+This repository contains an ETL testing project using Java, JUnit, and Cucumber. The project dynamically generates CSV files as input, loads them into an H2 in-memory database, runs SQL transformations, and validates the output CSV against expected results.
